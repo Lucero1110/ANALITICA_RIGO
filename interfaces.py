@@ -14,7 +14,7 @@ def mostrar():
     print("Esta rama está destinada para los cambios del fronend")
 
 mostrar()
-=======
+
 def imprime():
     print("Esta es la rama para desarrollar el backend")
 
